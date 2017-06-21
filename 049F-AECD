@@ -132,7 +132,7 @@ CRLF             = <standard end-of-line token as per [RFC2822
   "sudo": "required",
   "dist": "trusty",
   "os": "linux",
-  "language": "generic",
+  "language": "galaic",
   "cache": {
     "directories": [
       "depends/built",
